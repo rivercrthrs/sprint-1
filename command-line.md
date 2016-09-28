@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <h1> What is the command line</h1>
 
-<p>The command line is the interface in which you can communicate directly with your computers as well as execute commands via commands written in code. Following are a few commands you might use</p>
+<p>The command line is the interface in which you can communicate directly with your computers as well as execute commands via code. Following are a few commands you might use</p>
 <ul>
   <li>pwd - Show the "path" of parent folders leading to the current folder or file you are working in</li>
-  <li>cd - change to a different folder (aka directory)</li>
+  <li>cd - Change to a different folder (aka directory)</li>
   <li>mkdir - Create a new folder (or directory)</li>
   <li>touch - Create a new file</li>
   <li>ls - List the contents of the folder you are currently working in (excluding hidden files)
